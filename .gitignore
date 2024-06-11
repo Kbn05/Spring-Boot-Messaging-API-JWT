@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Credentials ###
+src/main/resources/spring-notipush-firebase-adminsdk-4ygj4-341d735efe.json
